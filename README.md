@@ -1,2 +1,2 @@
-# nitro_genbot-discord
-니트로 생성 봇
+# discord.py 1.4.0
+- 니트로 생성 봇
